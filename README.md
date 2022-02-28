@@ -1,4 +1,4 @@
-CS455 Module 2 PR1: Dijkstra++   
+# CS455 Module 2 PR1: Dijkstra++   
 Author: Georgiy Antonovich Bondar  
 
 Go to https://keshakot.github.io/CS455_M2.PR1/ to play the game :)
